@@ -4,7 +4,7 @@ module "example_landing_zone_organization" {
 
   landing_zone_providers = {
     default = {
-      account_id = "123456789012"
+      account_id = "543332486884"
       region     = "us-east-1"
     }
   }
